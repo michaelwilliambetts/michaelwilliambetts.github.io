@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Michael Betts</title>
+    <link>/post/</link>
+    <description>Recent content in Posts on Michael Betts</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <copyright>All rights reserved - 2016</copyright>
+    <lastBuildDate>Wed, 20 Feb 2019 15:13:51 -0800</lastBuildDate>
+    
+	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Projects</title>
+      <link>/post/port/</link>
+      <pubDate>Wed, 20 Feb 2019 15:13:51 -0800</pubDate>
+      
+      <guid>/post/port/</guid>
+      <description>2019     2018 VFX  Feminist Hiphop 🔥 and a mantra == hybrid between a chorus and verse
+     2017 marquettiquette Recorded &amp;lsquo;new family&amp;rsquo; at my first family reunion for a week, then made music around the tape! 💾
+Marquetteiquette - Betts Family Reunion Album Side A by Michael Betts ## Trapt in the Womb (mv)   POLIWAT 🔥👮🏽‍♀️🔥🎶 === a mobile music composition vest, based on this open source, project</description>
+    </item>
+    
+  </channel>
+</rss>
